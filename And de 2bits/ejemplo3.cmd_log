@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/Ejemplo1/ejemplo3.xst" -ofn "/home/ise/Documents/Proyecto/Ejemplo1/ejemplo3.syr" 

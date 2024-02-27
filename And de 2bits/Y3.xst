@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/Documents/Proyecto/Ejemplo1/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/Documents/Proyecto/Ejemplo1/xst"
+elaborate
+-ifn Y3.prj
+-ifmt mixed
