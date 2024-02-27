@@ -1,0 +1,13 @@
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/Decox/Decox.xst" -ofn "/home/ise/Documents/Proyecto/Decox/Decox.syr" 
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/Decox/Decox.xst" -ofn "/home/ise/Documents/Proyecto/Decox/Decox.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Documents/Proyecto/Decox.ucf -p xc3s1600e-fg320-4 Decox.ngc Decox.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o Decox_map.ncd Decox.ngd Decox.pcf 
+par -w -intstyle ise -ol high -t 1 Decox_map.ncd Decox.ncd Decox.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Decox.twx Decox.ncd -o Decox.twr Decox.pcf 
+bitgen -intstyle ise -f Decox.ut Decox.ncd 
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/Decox/Decox.xst" -ofn "/home/ise/Documents/Proyecto/Decox/Decox.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Documents/Proyecto/Decox.ucf -p xc3s1600e-fg320-4 Decox.ngc Decox.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o Decox_map.ncd Decox.ngd Decox.pcf 
+par -w -intstyle ise -ol high -t 1 Decox_map.ncd Decox.ncd Decox.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Decox.twx Decox.ncd -o Decox.twr Decox.pcf 
+bitgen -intstyle ise -f Decox.ut Decox.ncd 
