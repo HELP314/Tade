@@ -1,0 +1,6 @@
+V3 3
+FL /home/ise/Documents/Proyecto/MemoriaRam/Ram.vhd 2024/03/26.01:08:36 P.20131013
+EN work/rams 1711415324 FL /home/ise/Documents/Proyecto/MemoriaRam/Ram.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/rams/syn 1711415325 \
+      FL /home/ise/Documents/Proyecto/MemoriaRam/Ram.vhd EN work/rams 1711415324

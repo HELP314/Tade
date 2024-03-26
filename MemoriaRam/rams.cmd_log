@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/MemoriaRam/rams.xst" -ofn "/home/ise/Documents/Proyecto/MemoriaRam/rams.syr" 
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/MemoriaRam/rams.xst" -ofn "/home/ise/Documents/Proyecto/MemoriaRam/rams.syr" 
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/MemoriaRam/rams.xst" -ofn "/home/ise/Documents/Proyecto/MemoriaRam/rams.syr" 
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/MemoriaRam/rams.xst" -ofn "/home/ise/Documents/Proyecto/MemoriaRam/rams.syr" 

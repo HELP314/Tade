@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/MemoriaRam/rams_01.xst" -ofn "/home/ise/Documents/Proyecto/MemoriaRam/rams_01.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1600e-fg320-4 rams_01.ngc rams_01.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o rams_01_map.ncd rams_01.ngd rams_01.pcf 
+par -w -intstyle ise -ol high -t 1 rams_01_map.ncd rams_01.ncd rams_01.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml rams_01.twx rams_01.ncd -o rams_01.twr rams_01.pcf 
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/MemoriaRam/rams_01.xst" -ofn "/home/ise/Documents/Proyecto/MemoriaRam/rams_01.syr" 
