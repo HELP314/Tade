@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/Contador/counter.xst" -ofn "/home/ise/Documents/Proyecto/Contador/counter.syr" 

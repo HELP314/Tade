@@ -1,0 +1,6 @@
+V3 3
+FL /home/ise/Documents/Proyecto/Contador/Counter.vhd 2024/03/28.09:46:07 P.20131013
+EN work/counter 1711619178 FL /home/ise/Documents/Proyecto/Contador/Counter.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/counter/Behavioral 1711619179 \
+      FL /home/ise/Documents/Proyecto/Contador/Counter.vhd EN work/counter 1711619178

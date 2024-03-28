@@ -1,0 +1,8 @@
+V3 3
+FL /home/ise/Documents/Proyecto/Contador_Pausa/contador_Pausa.vhd 2024/03/28.09:51:21 P.20131013
+EN work/cont 1711619489 \
+      FL /home/ise/Documents/Proyecto/Contador_Pausa/contador_Pausa.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/cont/Behavioral 1711619490 \
+      FL /home/ise/Documents/Proyecto/Contador_Pausa/contador_Pausa.vhd \
+      EN work/cont 1711619489
