@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/Ram_ok/sim_ram.xst" -ofn "/home/ise/Documents/Proyecto/Ram_ok/sim_ram.syr" 

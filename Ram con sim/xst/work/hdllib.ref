@@ -1,0 +1,3 @@
+AR rams syn /home/ise/Documents/Proyecto/MemoriaRam/Ram.vhd sub00/vhpl01 1711504335
+EN sim_ram NULL /home/ise/Documents/Proyecto/MemoriaRam/sim_ram.vhd sub00/vhpl02 1711504336
+EN rams NULL /home/ise/Documents/Proyecto/MemoriaRam/Ram.vhd sub00/vhpl00 1711504533

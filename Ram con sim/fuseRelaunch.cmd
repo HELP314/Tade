@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/Documents/Proyecto/Ram_ok/sim_ram_isim_beh.exe" -prj "/home/ise/Documents/Proyecto/Ram_ok/sim_ram_beh.prj" "work.sim_ram" 

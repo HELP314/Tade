@@ -1,0 +1,1 @@
+vhdtdtfi -prj Ram_ok -o /home/ise/Documents/Proyecto/Ram_ok/rams.vhi -module rams -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../MemoriaRam/Ram.vhd 

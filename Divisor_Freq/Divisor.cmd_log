@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Documents/Proyecto/Divisor_Freq/Divisor.xst" -ofn "/home/ise/Documents/Proyecto/Divisor_Freq/Divisor.syr" 

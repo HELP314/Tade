@@ -1,0 +1,2 @@
+vhdl work "../MemoriaRam/Ram.vhd"
+vhdl work "../MemoriaRam/sim_ram.vhd"

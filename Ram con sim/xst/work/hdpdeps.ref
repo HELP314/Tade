@@ -1,0 +1,12 @@
+V3 7
+FL /home/ise/Documents/Proyecto/MemoriaRam/Ram.vhd 2024/03/27.01:51:45 P.20131013
+EN work/rams 1711504334 FL /home/ise/Documents/Proyecto/MemoriaRam/Ram.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/rams/syn 1711504335 \
+      FL /home/ise/Documents/Proyecto/MemoriaRam/Ram.vhd EN work/rams 1711504334
+FL /home/ise/Documents/Proyecto/MemoriaRam/sim_ram.vhd 2024/03/27.01:47:40 P.20131013
+EN work/sim_ram 0 FL /home/ise/Documents/Proyecto/MemoriaRam/sim_ram.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/sim_ram/behavior 0 \
+      FL /home/ise/Documents/Proyecto/MemoriaRam/sim_ram.vhd EN work/sim_ram 0 \
+      CP rams

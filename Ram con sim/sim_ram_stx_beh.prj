@@ -1,0 +1,2 @@
+vhdl isim_temp "../MemoriaRam/Ram.vhd"
+vhdl isim_temp "../MemoriaRam/sim_ram.vhd"
